@@ -1,0 +1,3291 @@
+[
+  {
+    "id": "CE-2025-0001",
+    "date": "2025-01-03",
+    "lat": 13.5453,
+    "lng": 44.0053,
+    "country": "YEM",
+    "admin1": "Taiz",
+    "location_name": "Taiz",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Taiz."
+  },
+  {
+    "id": "CE-2025-0002",
+    "date": "2025-01-04",
+    "lat": 16.9346,
+    "lng": 43.7577,
+    "country": "YEM",
+    "admin1": "Saada",
+    "location_name": "Saada",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting agricultural land in Saada."
+  },
+  {
+    "id": "CE-2025-0003",
+    "date": "2025-01-11",
+    "lat": 31.0528,
+    "lng": 46.2615,
+    "country": "IRQ",
+    "admin1": "Dhi Qar",
+    "location_name": "Nasiriyah",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Nasiriyah over water shortages."
+  },
+  {
+    "id": "CE-2025-0004",
+    "date": "2025-01-16",
+    "lat": 31.7531,
+    "lng": 35.2082,
+    "country": "ISR",
+    "admin1": "Jerusalem",
+    "location_name": "Jerusalem",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Israel)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Jerusalem over water shortages."
+  },
+  {
+    "id": "CE-2025-0005",
+    "date": "2025-01-21",
+    "lat": 37.5675,
+    "lng": 43.7108,
+    "country": "TUR",
+    "admin1": "Hakkari",
+    "location_name": "Hakkari",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Türkiye)"
+    ],
+    "fatalities": 7,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Hakkari."
+  },
+  {
+    "id": "CE-2025-0006",
+    "date": "2025-01-26",
+    "lat": 31.5381,
+    "lng": 34.4582,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Jabalia",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "Unidentified armed group (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Jabalia. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2025-0007",
+    "date": "2025-02-13",
+    "lat": 31.5322,
+    "lng": 34.4879,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Jabalia",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "Unidentified armed group (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 2,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Jabalia. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2025-0008",
+    "date": "2025-02-14",
+    "lat": 33.3646,
+    "lng": 35.5631,
+    "country": "LBN",
+    "admin1": "Nabatieh",
+    "location_name": "Marjayoun",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Lebanon)"
+    ],
+    "fatalities": 11,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Marjayoun."
+  },
+  {
+    "id": "CE-2025-0009",
+    "date": "2025-02-17",
+    "lat": 32.118,
+    "lng": 35.2406,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Nablus",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Palestine)"
+    ],
+    "fatalities": 1,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on an open area in Nablus."
+  },
+  {
+    "id": "CE-2025-0010",
+    "date": "2025-02-25",
+    "lat": 35.1357,
+    "lng": 36.7788,
+    "country": "SYR",
+    "admin1": "Hama",
+    "location_name": "Hama",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Hama."
+  },
+  {
+    "id": "CE-2025-0011",
+    "date": "2025-03-02",
+    "lat": 15.4797,
+    "lng": 45.3406,
+    "country": "YEM",
+    "admin1": "Marib",
+    "location_name": "Marib",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a suspected weapons depot in Marib."
+  },
+  {
+    "id": "CE-2025-0012",
+    "date": "2025-03-05",
+    "lat": 31.7694,
+    "lng": 35.2045,
+    "country": "ISR",
+    "admin1": "Jerusalem",
+    "location_name": "Jerusalem",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Israel)",
+      "Civilians (Israel)"
+    ],
+    "fatalities": 6,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A rocket impact reported in Jerusalem. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0013",
+    "date": "2025-03-09",
+    "lat": 36.5563,
+    "lng": 37.9407,
+    "country": "SYR",
+    "admin1": "Aleppo",
+    "location_name": "Manbij",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Syria)",
+      "State forces (Syria)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A rocket impact reported in Manbij. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0014",
+    "date": "2025-03-12",
+    "lat": 36.3013,
+    "lng": 41.8504,
+    "country": "IRQ",
+    "admin1": "Nineveh",
+    "location_name": "Sinjar",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Sinjar over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2025-0015",
+    "date": "2025-03-17",
+    "lat": 35.3341,
+    "lng": 47.0295,
+    "country": "IRN",
+    "admin1": "Kurdistan",
+    "location_name": "Sanandaj",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iran)",
+      "Police forces (Iran)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Sanandaj over the regional war."
+  },
+  {
+    "id": "CE-2025-0016",
+    "date": "2025-04-02",
+    "lat": 15.4815,
+    "lng": 45.317,
+    "country": "YEM",
+    "admin1": "Marib",
+    "location_name": "Marib",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Marib."
+  },
+  {
+    "id": "CE-2025-0017",
+    "date": "2025-04-06",
+    "lat": 15.7064,
+    "lng": 43.6286,
+    "country": "YEM",
+    "admin1": "Hajjah",
+    "location_name": "Hajjah",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Yemen)"
+    ],
+    "fatalities": 18,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on an open area in Hajjah."
+  },
+  {
+    "id": "CE-2025-0018",
+    "date": "2025-04-10",
+    "lat": 31.4032,
+    "lng": 34.9688,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Hebron",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "Unidentified armed group (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 1,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Hebron. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2025-0019",
+    "date": "2025-04-10",
+    "lat": 25.2302,
+    "lng": 55.2641,
+    "country": "ARE",
+    "admin1": "Dubai",
+    "location_name": "Dubai",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (United Arab Emirates)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Dubai over rising fuel prices."
+  },
+  {
+    "id": "CE-2025-0020",
+    "date": "2025-04-15",
+    "lat": 35.4593,
+    "lng": 40.1684,
+    "country": "SYR",
+    "admin1": "Deir ez-Zor",
+    "location_name": "Deir ez-Zor",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": 0,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Deir ez-Zor."
+  },
+  {
+    "id": "CE-2025-0021",
+    "date": "2025-04-25",
+    "lat": 35.9322,
+    "lng": 38.9968,
+    "country": "SYR",
+    "admin1": "Raqqa",
+    "location_name": "Raqqa",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Raqqa."
+  },
+  {
+    "id": "CE-2025-0022",
+    "date": "2025-04-25",
+    "lat": 36.3,
+    "lng": 59.6164,
+    "country": "IRN",
+    "admin1": "Razavi Khorasan",
+    "location_name": "Mashhad",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Iran)",
+      "State forces (Iran)"
+    ],
+    "fatalities": 0,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A car bomb reported in Mashhad. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0023",
+    "date": "2025-05-03",
+    "lat": 38.4243,
+    "lng": 27.1353,
+    "country": "TUR",
+    "admin1": "Izmir",
+    "location_name": "Izmir",
+    "event_type": "riot",
+    "actors": [
+      "Rioters (Türkiye)",
+      "Police forces (Türkiye)"
+    ],
+    "fatalities": 0,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A protest over electricity shortages in Izmir turned violent, with clashes with police."
+  },
+  {
+    "id": "CE-2025-0024",
+    "date": "2025-05-12",
+    "lat": 33.3649,
+    "lng": 35.4467,
+    "country": "LBN",
+    "admin1": "Nabatieh",
+    "location_name": "Nabatieh",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)"
+    ],
+    "fatalities": 20,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a vehicle in Nabatieh."
+  },
+  {
+    "id": "CE-2025-0025",
+    "date": "2025-05-13",
+    "lat": 31.0666,
+    "lng": 46.2855,
+    "country": "IRQ",
+    "admin1": "Dhi Qar",
+    "location_name": "Nasiriyah",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Iraq)",
+      "Civilians (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Nasiriyah."
+  },
+  {
+    "id": "CE-2025-0026",
+    "date": "2025-05-22",
+    "lat": 32.5146,
+    "lng": 38.2137,
+    "country": "JOR",
+    "admin1": "Mafraq",
+    "location_name": "Ruwaished",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Jordan)",
+      "Non-state armed group (Jordan)"
+    ],
+    "fatalities": 2,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Ruwaished."
+  },
+  {
+    "id": "CE-2025-0027",
+    "date": "2025-05-23",
+    "lat": 33.7576,
+    "lng": 44.6077,
+    "country": "IRQ",
+    "admin1": "Diyala",
+    "location_name": "Baqubah",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Iraq)",
+      "State forces (Iraq)"
+    ],
+    "fatalities": 9,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A drone strike reported in Baqubah. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0028",
+    "date": "2025-05-28",
+    "lat": 30.4676,
+    "lng": 47.6515,
+    "country": "IRQ",
+    "admin1": "Basra",
+    "location_name": "Basra",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Iraq)",
+      "State forces (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A roadside bomb reported in Basra. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0029",
+    "date": "2025-05-29",
+    "lat": 29.3896,
+    "lng": 47.9935,
+    "country": "KWT",
+    "admin1": "Al Asimah",
+    "location_name": "Kuwait City",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Kuwait)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Kuwait City over the regional war."
+  },
+  {
+    "id": "CE-2025-0030",
+    "date": "2025-05-31",
+    "lat": 29.5757,
+    "lng": 34.9693,
+    "country": "ISR",
+    "admin1": "Southern District",
+    "location_name": "Eilat",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Israel)",
+      "State forces (Israel)"
+    ],
+    "fatalities": 3,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A rocket impact reported in Eilat. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0031",
+    "date": "2025-06-10",
+    "lat": 14.5688,
+    "lng": 46.8571,
+    "country": "YEM",
+    "admin1": "Shabwah",
+    "location_name": "Ataq",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 2,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A drone strike reported in Ataq. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0032",
+    "date": "2025-06-13",
+    "lat": 26.1756,
+    "lng": 50.6064,
+    "country": "BHR",
+    "admin1": "Capital",
+    "location_name": "Sitra",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Bahrain)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Sitra over electricity shortages."
+  },
+  {
+    "id": "CE-2025-0033",
+    "date": "2025-06-20",
+    "lat": 35.1974,
+    "lng": 36.6021,
+    "country": "SYR",
+    "admin1": "Hama",
+    "location_name": "Hama",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": null,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Hama."
+  },
+  {
+    "id": "CE-2025-0034",
+    "date": "2025-06-20",
+    "lat": 33.3082,
+    "lng": 44.3926,
+    "country": "IRQ",
+    "admin1": "Baghdad",
+    "location_name": "Baghdad",
+    "event_type": "riot",
+    "actors": [
+      "Rioters (Iraq)",
+      "Police forces (Iraq)"
+    ],
+    "fatalities": 2,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A protest over the regional war in Baghdad turned violent, with clashes with police."
+  },
+  {
+    "id": "CE-2025-0035",
+    "date": "2025-06-24",
+    "lat": 33.5895,
+    "lng": 36.375,
+    "country": "SYR",
+    "admin1": "Rif Dimashq",
+    "location_name": "Douma",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "State forces (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 4,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Douma. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2025-0036",
+    "date": "2025-06-27",
+    "lat": 33.7452,
+    "lng": 35.507,
+    "country": "LBN",
+    "admin1": "Beirut",
+    "location_name": "Beirut",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Lebanon)",
+      "Civilians (Lebanon)"
+    ],
+    "fatalities": 1,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting an open area in Beirut."
+  },
+  {
+    "id": "CE-2025-0037",
+    "date": "2025-07-02",
+    "lat": 13.0317,
+    "lng": 44.8858,
+    "country": "YEM",
+    "admin1": "Lahij",
+    "location_name": "Lahij",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Yemen)",
+      "State forces (Yemen)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A rocket impact reported in Lahij. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0038",
+    "date": "2025-07-03",
+    "lat": 35.5138,
+    "lng": 35.8135,
+    "country": "SYR",
+    "admin1": "Latakia",
+    "location_name": "Latakia",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": 15,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Latakia."
+  },
+  {
+    "id": "CE-2025-0039",
+    "date": "2025-07-09",
+    "lat": 35.9248,
+    "lng": 39.0395,
+    "country": "SYR",
+    "admin1": "Raqqa",
+    "location_name": "Raqqa",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a residential building in Raqqa."
+  },
+  {
+    "id": "CE-2025-0040",
+    "date": "2025-07-13",
+    "lat": 31.024,
+    "lng": 46.2466,
+    "country": "IRQ",
+    "admin1": "Dhi Qar",
+    "location_name": "Nasiriyah",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)",
+      "Police forces (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Nasiriyah over rising fuel prices."
+  },
+  {
+    "id": "CE-2025-0041",
+    "date": "2025-07-20",
+    "lat": 33.2407,
+    "lng": 35.2003,
+    "country": "LBN",
+    "admin1": "South Lebanon",
+    "location_name": "Tyre",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Lebanon)",
+      "Police forces (Lebanon)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Tyre over electricity shortages."
+  },
+  {
+    "id": "CE-2025-0042",
+    "date": "2025-07-28",
+    "lat": 30.0638,
+    "lng": 31.2166,
+    "country": "EGY",
+    "admin1": "Cairo",
+    "location_name": "Cairo",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Egypt)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Cairo over electricity shortages."
+  },
+  {
+    "id": "CE-2025-0043",
+    "date": "2025-08-02",
+    "lat": 33.7322,
+    "lng": 44.6629,
+    "country": "IRQ",
+    "admin1": "Diyala",
+    "location_name": "Baqubah",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)",
+      "Police forces (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Baqubah over the detention of activists."
+  },
+  {
+    "id": "CE-2025-0044",
+    "date": "2025-08-05",
+    "lat": 32.3367,
+    "lng": 35.0503,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Tulkarm",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a residential building in Tulkarm."
+  },
+  {
+    "id": "CE-2025-0045",
+    "date": "2025-08-05",
+    "lat": 30.5383,
+    "lng": 47.7454,
+    "country": "IRQ",
+    "admin1": "Basra",
+    "location_name": "Basra",
+    "event_type": "riot",
+    "actors": [
+      "Rioters (Iraq)",
+      "Police forces (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A protest over unpaid public-sector wages in Basra turned violent, with clashes with police."
+  },
+  {
+    "id": "CE-2025-0046",
+    "date": "2025-08-06",
+    "lat": 35.913,
+    "lng": 36.6122,
+    "country": "SYR",
+    "admin1": "Idlib",
+    "location_name": "Idlib",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "Unidentified armed group (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 3,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Idlib. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2025-0047",
+    "date": "2025-08-10",
+    "lat": 14.0118,
+    "lng": 45.558,
+    "country": "YEM",
+    "admin1": "Al Bayda",
+    "location_name": "Al Bayda",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Al Bayda."
+  },
+  {
+    "id": "CE-2025-0048",
+    "date": "2025-08-25",
+    "lat": 35.6001,
+    "lng": 35.6896,
+    "country": "SYR",
+    "admin1": "Latakia",
+    "location_name": "Latakia",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": 17,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Latakia."
+  },
+  {
+    "id": "CE-2025-0049",
+    "date": "2025-08-27",
+    "lat": 34.001,
+    "lng": 36.1939,
+    "country": "LBN",
+    "admin1": "Baalbek-Hermel",
+    "location_name": "Baalbek",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Lebanon)",
+      "Civilians (Lebanon)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a suspected weapons depot in Baalbek."
+  },
+  {
+    "id": "CE-2025-0050",
+    "date": "2025-08-28",
+    "lat": 37.0839,
+    "lng": 37.3873,
+    "country": "TUR",
+    "admin1": "Gaziantep",
+    "location_name": "Gaziantep",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Türkiye)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Gaziantep over the regional war."
+  },
+  {
+    "id": "CE-2025-0051",
+    "date": "2025-09-04",
+    "lat": 32.5561,
+    "lng": 35.9673,
+    "country": "SYR",
+    "admin1": "Daraa",
+    "location_name": "Daraa",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "Unidentified armed group (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 6,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Daraa. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2025-0052",
+    "date": "2025-09-04",
+    "lat": 32.2179,
+    "lng": 35.2528,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Nablus",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Palestine)"
+    ],
+    "fatalities": 10,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a vehicle in Nablus."
+  },
+  {
+    "id": "CE-2025-0053",
+    "date": "2025-09-21",
+    "lat": 35.1112,
+    "lng": 36.7592,
+    "country": "SYR",
+    "admin1": "Hama",
+    "location_name": "Hama",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": 4,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Hama."
+  },
+  {
+    "id": "CE-2025-0054",
+    "date": "2025-09-25",
+    "lat": 32.6149,
+    "lng": 36.0937,
+    "country": "SYR",
+    "admin1": "Daraa",
+    "location_name": "Daraa",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": 2,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Daraa."
+  },
+  {
+    "id": "CE-2025-0055",
+    "date": "2025-10-08",
+    "lat": 31.0419,
+    "lng": 46.2857,
+    "country": "IRQ",
+    "admin1": "Dhi Qar",
+    "location_name": "Nasiriyah",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)",
+      "Police forces (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Nasiriyah over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2025-0056",
+    "date": "2025-10-19",
+    "lat": 33.5909,
+    "lng": 36.4321,
+    "country": "SYR",
+    "admin1": "Rif Dimashq",
+    "location_name": "Douma",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 17,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a vehicle in Douma."
+  },
+  {
+    "id": "CE-2025-0057",
+    "date": "2025-10-21",
+    "lat": 36.2035,
+    "lng": 37.1525,
+    "country": "SYR",
+    "admin1": "Aleppo",
+    "location_name": "Aleppo",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)"
+    ],
+    "fatalities": 18,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a residential building in Aleppo."
+  },
+  {
+    "id": "CE-2025-0058",
+    "date": "2025-10-23",
+    "lat": 31.171,
+    "lng": 29.9249,
+    "country": "EGY",
+    "admin1": "Alexandria",
+    "location_name": "Alexandria",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Egypt)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Alexandria over the detention of activists."
+  },
+  {
+    "id": "CE-2025-0059",
+    "date": "2025-11-05",
+    "lat": 36.5552,
+    "lng": 37.9593,
+    "country": "SYR",
+    "admin1": "Aleppo",
+    "location_name": "Manbij",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Syria)"
+    ],
+    "fatalities": 3,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on agricultural land in Manbij."
+  },
+  {
+    "id": "CE-2025-0060",
+    "date": "2025-11-06",
+    "lat": 32.6531,
+    "lng": 36.1256,
+    "country": "SYR",
+    "admin1": "Daraa",
+    "location_name": "Daraa",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "State forces (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 2,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Daraa. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2025-0061",
+    "date": "2025-11-12",
+    "lat": 15.6613,
+    "lng": 43.5878,
+    "country": "YEM",
+    "admin1": "Hajjah",
+    "location_name": "Hajjah",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 2,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a vehicle in Hajjah."
+  },
+  {
+    "id": "CE-2025-0062",
+    "date": "2025-11-13",
+    "lat": 33.4132,
+    "lng": 35.4987,
+    "country": "LBN",
+    "admin1": "Nabatieh",
+    "location_name": "Nabatieh",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Lebanon)"
+    ],
+    "fatalities": 7,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Nabatieh."
+  },
+  {
+    "id": "CE-2025-0063",
+    "date": "2025-11-14",
+    "lat": 16.9273,
+    "lng": 43.7903,
+    "country": "YEM",
+    "admin1": "Saada",
+    "location_name": "Saada",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Saada."
+  },
+  {
+    "id": "CE-2025-0064",
+    "date": "2025-11-19",
+    "lat": 35.7172,
+    "lng": 51.3821,
+    "country": "IRN",
+    "admin1": "Tehran",
+    "location_name": "Tehran",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iran)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Tehran over electricity shortages."
+  },
+  {
+    "id": "CE-2025-0065",
+    "date": "2025-11-24",
+    "lat": 13.7485,
+    "lng": 44.811,
+    "country": "YEM",
+    "admin1": "Ad Dali",
+    "location_name": "Al Dhale",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)"
+    ],
+    "fatalities": 7,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Al Dhale."
+  },
+  {
+    "id": "CE-2025-0066",
+    "date": "2025-11-26",
+    "lat": 36.2151,
+    "lng": 37.1542,
+    "country": "SYR",
+    "admin1": "Aleppo",
+    "location_name": "Aleppo",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on an open area in Aleppo."
+  },
+  {
+    "id": "CE-2025-0067",
+    "date": "2025-11-28",
+    "lat": 35.6347,
+    "lng": 35.8984,
+    "country": "SYR",
+    "admin1": "Latakia",
+    "location_name": "Latakia",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": null,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a checkpoint in Latakia."
+  },
+  {
+    "id": "CE-2025-0068",
+    "date": "2025-11-29",
+    "lat": 40.9833,
+    "lng": 28.9485,
+    "country": "TUR",
+    "admin1": "Istanbul",
+    "location_name": "Istanbul",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Türkiye)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a residential building in Istanbul."
+  },
+  {
+    "id": "CE-2025-0069",
+    "date": "2025-11-30",
+    "lat": 37.8975,
+    "lng": 40.2457,
+    "country": "TUR",
+    "admin1": "Diyarbakır",
+    "location_name": "Diyarbakır",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Türkiye)",
+      "Civilians (Türkiye)"
+    ],
+    "fatalities": 20,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on an open area in Diyarbakır."
+  },
+  {
+    "id": "CE-2025-0070",
+    "date": "2025-12-02",
+    "lat": 33.387,
+    "lng": 35.6011,
+    "country": "LBN",
+    "admin1": "Nabatieh",
+    "location_name": "Marjayoun",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Lebanon)",
+      "Civilians (Lebanon)"
+    ],
+    "fatalities": 2,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a vehicle in Marjayoun."
+  },
+  {
+    "id": "CE-2025-0071",
+    "date": "2025-12-04",
+    "lat": 14.8161,
+    "lng": 42.9618,
+    "country": "YEM",
+    "admin1": "Al Hudaydah",
+    "location_name": "Hodeidah",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": 20,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Hodeidah."
+  },
+  {
+    "id": "CE-2025-0072",
+    "date": "2025-12-06",
+    "lat": 37.055,
+    "lng": 41.2216,
+    "country": "SYR",
+    "admin1": "Al-Hasakah",
+    "location_name": "Qamishli",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)"
+    ],
+    "fatalities": 10,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a vehicle in Qamishli."
+  },
+  {
+    "id": "CE-2025-0073",
+    "date": "2025-12-11",
+    "lat": 32.4146,
+    "lng": 35.1884,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Jenin",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Palestine)"
+    ],
+    "fatalities": 0,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Jenin over water shortages."
+  },
+  {
+    "id": "CE-2025-0074",
+    "date": "2025-12-12",
+    "lat": 33.2624,
+    "lng": 35.1702,
+    "country": "LBN",
+    "admin1": "South Lebanon",
+    "location_name": "Tyre",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Lebanon)"
+    ],
+    "fatalities": 20,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Tyre."
+  },
+  {
+    "id": "CE-2025-0075",
+    "date": "2025-12-13",
+    "lat": 34.5926,
+    "lng": 43.6473,
+    "country": "IRQ",
+    "admin1": "Salah al-Din",
+    "location_name": "Tikrit",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Tikrit over rising fuel prices."
+  },
+  {
+    "id": "CE-2025-0076",
+    "date": "2025-12-16",
+    "lat": 32.3157,
+    "lng": 35.0539,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Tulkarm",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on agricultural land in Tulkarm."
+  },
+  {
+    "id": "CE-2025-0077",
+    "date": "2025-12-23",
+    "lat": 34.6756,
+    "lng": 36.7595,
+    "country": "SYR",
+    "admin1": "Homs",
+    "location_name": "Homs",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Syria)",
+      "State forces (Syria)"
+    ],
+    "fatalities": null,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A roadside bomb reported in Homs. No group has claimed it."
+  },
+  {
+    "id": "CE-2025-0078",
+    "date": "2025-12-23",
+    "lat": 34.7145,
+    "lng": 36.702,
+    "country": "SYR",
+    "admin1": "Homs",
+    "location_name": "Homs",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 5,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a checkpoint in Homs."
+  },
+  {
+    "id": "CE-2025-0079",
+    "date": "2025-12-26",
+    "lat": 31.0877,
+    "lng": 29.9445,
+    "country": "EGY",
+    "admin1": "Alexandria",
+    "location_name": "Alexandria",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Egypt)",
+      "Non-state armed group (Egypt)"
+    ],
+    "fatalities": 7,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Alexandria."
+  },
+  {
+    "id": "CE-2026-0001",
+    "date": "2026-01-03",
+    "lat": 31.1897,
+    "lng": 34.1429,
+    "country": "EGY",
+    "admin1": "North Sinai",
+    "location_name": "Sheikh Zuweid",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Egypt)",
+      "Non-state armed group (Egypt)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Sheikh Zuweid."
+  },
+  {
+    "id": "CE-2026-0002",
+    "date": "2026-01-13",
+    "lat": 32.6406,
+    "lng": 36.0884,
+    "country": "SYR",
+    "admin1": "Daraa",
+    "location_name": "Daraa",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Daraa."
+  },
+  {
+    "id": "CE-2026-0003",
+    "date": "2026-01-14",
+    "lat": 33.1792,
+    "lng": 35.5978,
+    "country": "ISR",
+    "admin1": "Northern District",
+    "location_name": "Kiryat Shmona",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Israel)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Kiryat Shmona over the cost of living."
+  },
+  {
+    "id": "CE-2026-0004",
+    "date": "2026-01-16",
+    "lat": 12.7721,
+    "lng": 45.0065,
+    "country": "YEM",
+    "admin1": "Aden",
+    "location_name": "Aden",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Aden."
+  },
+  {
+    "id": "CE-2026-0005",
+    "date": "2026-01-17",
+    "lat": 14.0027,
+    "lng": 45.6044,
+    "country": "YEM",
+    "admin1": "Al Bayda",
+    "location_name": "Al Bayda",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Al Bayda."
+  },
+  {
+    "id": "CE-2026-0006",
+    "date": "2026-01-18",
+    "lat": 36.5067,
+    "lng": 37.9346,
+    "country": "SYR",
+    "admin1": "Aleppo",
+    "location_name": "Manbij",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Syria)"
+    ],
+    "fatalities": 24,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Manbij."
+  },
+  {
+    "id": "CE-2026-0007",
+    "date": "2026-01-24",
+    "lat": 38.053,
+    "lng": 46.3046,
+    "country": "IRN",
+    "admin1": "East Azerbaijan",
+    "location_name": "Tabriz",
+    "event_type": "riot",
+    "actors": [
+      "Rioters (Iran)",
+      "Police forces (Iran)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A protest over unpaid public-sector wages in Tabriz turned violent, with clashes with police."
+  },
+  {
+    "id": "CE-2026-0008",
+    "date": "2026-02-01",
+    "lat": 31.7816,
+    "lng": 35.2122,
+    "country": "ISR",
+    "admin1": "Jerusalem",
+    "location_name": "Jerusalem",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Israel)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Jerusalem over the cost of living."
+  },
+  {
+    "id": "CE-2026-0009",
+    "date": "2026-02-04",
+    "lat": 31.2213,
+    "lng": 34.7855,
+    "country": "ISR",
+    "admin1": "Southern District",
+    "location_name": "Be'er Sheva",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Israel)",
+      "Civilians (Israel)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A car bomb reported in Be'er Sheva. No group has claimed it."
+  },
+  {
+    "id": "CE-2026-0010",
+    "date": "2026-02-05",
+    "lat": 31.1042,
+    "lng": 33.8239,
+    "country": "EGY",
+    "admin1": "North Sinai",
+    "location_name": "Al Arish",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Egypt)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Al Arish over electricity shortages."
+  },
+  {
+    "id": "CE-2026-0011",
+    "date": "2026-02-08",
+    "lat": 13.7321,
+    "lng": 44.7084,
+    "country": "YEM",
+    "admin1": "Ad Dali",
+    "location_name": "Al Dhale",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Al Dhale over rising fuel prices."
+  },
+  {
+    "id": "CE-2026-0012",
+    "date": "2026-02-12",
+    "lat": 31.325,
+    "lng": 34.3309,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Khan Younis",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Palestine)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Khan Younis over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2026-0013",
+    "date": "2026-02-17",
+    "lat": 32.4792,
+    "lng": 38.1907,
+    "country": "JOR",
+    "admin1": "Mafraq",
+    "location_name": "Ruwaished",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Jordan)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Ruwaished over the regional war."
+  },
+  {
+    "id": "CE-2026-0014",
+    "date": "2026-02-17",
+    "lat": 25.3101,
+    "lng": 51.5082,
+    "country": "QAT",
+    "admin1": "Doha",
+    "location_name": "Doha",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Qatar)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Doha over water shortages."
+  },
+  {
+    "id": "CE-2026-0015",
+    "date": "2026-02-21",
+    "lat": 15.3989,
+    "lng": 44.2017,
+    "country": "YEM",
+    "admin1": "Amanat al Asimah",
+    "location_name": "Sanaa",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 19,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on agricultural land in Sanaa."
+  },
+  {
+    "id": "CE-2026-0016",
+    "date": "2026-02-24",
+    "lat": 37.0956,
+    "lng": 37.3548,
+    "country": "TUR",
+    "admin1": "Gaziantep",
+    "location_name": "Gaziantep",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Türkiye)",
+      "Police forces (Türkiye)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Gaziantep over electricity shortages."
+  },
+  {
+    "id": "CE-2026-0017",
+    "date": "2026-03-08",
+    "lat": 31.5287,
+    "lng": 35.0938,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Hebron",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Palestine)",
+      "Non-state armed group (Palestine)"
+    ],
+    "fatalities": 5,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Hebron."
+  },
+  {
+    "id": "CE-2026-0018",
+    "date": "2026-03-10",
+    "lat": 24.7365,
+    "lng": 46.6965,
+    "country": "SAU",
+    "admin1": "Riyadh",
+    "location_name": "Riyadh",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Saudi Arabia)",
+      "Civilians (Saudi Arabia)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A roadside bomb reported in Riyadh. No group has claimed it."
+  },
+  {
+    "id": "CE-2026-0019",
+    "date": "2026-03-12",
+    "lat": 32.1462,
+    "lng": 35.2533,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Nablus",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 3,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Nablus."
+  },
+  {
+    "id": "CE-2026-0020",
+    "date": "2026-03-17",
+    "lat": 31.9021,
+    "lng": 35.2158,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Ramallah",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Palestine)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Ramallah over water shortages."
+  },
+  {
+    "id": "CE-2026-0021",
+    "date": "2026-03-20",
+    "lat": 31.7631,
+    "lng": 35.2092,
+    "country": "ISR",
+    "admin1": "Jerusalem",
+    "location_name": "Jerusalem",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Israel)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Jerusalem over the regional war."
+  },
+  {
+    "id": "CE-2026-0022",
+    "date": "2026-03-21",
+    "lat": 13.7142,
+    "lng": 44.7435,
+    "country": "YEM",
+    "admin1": "Ad Dali",
+    "location_name": "Al Dhale",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting an open area in Al Dhale."
+  },
+  {
+    "id": "CE-2026-0023",
+    "date": "2026-03-23",
+    "lat": 14.4872,
+    "lng": 46.7616,
+    "country": "YEM",
+    "admin1": "Shabwah",
+    "location_name": "Ataq",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": null,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a suspected weapons depot in Ataq."
+  },
+  {
+    "id": "CE-2026-0024",
+    "date": "2026-03-28",
+    "lat": 31.4684,
+    "lng": 34.4698,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Gaza City",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a vehicle in Gaza City."
+  },
+  {
+    "id": "CE-2026-0025",
+    "date": "2026-04-02",
+    "lat": 31.4331,
+    "lng": 34.371,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Deir al-Balah",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a checkpoint in Deir al-Balah."
+  },
+  {
+    "id": "CE-2026-0026",
+    "date": "2026-04-05",
+    "lat": 32.4463,
+    "lng": 35.2755,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Jenin",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 11,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Jenin."
+  },
+  {
+    "id": "CE-2026-0027",
+    "date": "2026-04-06",
+    "lat": 35.5529,
+    "lng": 44.2722,
+    "country": "IRQ",
+    "admin1": "Kirkuk",
+    "location_name": "Kirkuk",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Iraq)",
+      "State forces (Iraq)"
+    ],
+    "fatalities": 8,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A drone strike reported in Kirkuk. No group has claimed it."
+  },
+  {
+    "id": "CE-2026-0028",
+    "date": "2026-04-13",
+    "lat": 23.5826,
+    "lng": 58.4091,
+    "country": "OMN",
+    "admin1": "Muscat",
+    "location_name": "Muscat",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Oman)",
+      "Police forces (Oman)"
+    ],
+    "fatalities": null,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Muscat over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2026-0029",
+    "date": "2026-04-19",
+    "lat": 35.9528,
+    "lng": 39.022,
+    "country": "SYR",
+    "admin1": "Raqqa",
+    "location_name": "Raqqa",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Syria)"
+    ],
+    "fatalities": 9,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a checkpoint in Raqqa."
+  },
+  {
+    "id": "CE-2026-0030",
+    "date": "2026-04-19",
+    "lat": 31.1599,
+    "lng": 33.785,
+    "country": "EGY",
+    "admin1": "North Sinai",
+    "location_name": "Al Arish",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Egypt)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Al Arish over the cost of living."
+  },
+  {
+    "id": "CE-2026-0031",
+    "date": "2026-04-22",
+    "lat": 33.3104,
+    "lng": 44.3752,
+    "country": "IRQ",
+    "admin1": "Baghdad",
+    "location_name": "Baghdad",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Baghdad over water shortages."
+  },
+  {
+    "id": "CE-2026-0032",
+    "date": "2026-04-23",
+    "lat": 24.6609,
+    "lng": 46.7274,
+    "country": "SAU",
+    "admin1": "Riyadh",
+    "location_name": "Riyadh",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Saudi Arabia)",
+      "Civilians (Saudi Arabia)"
+    ],
+    "fatalities": null,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A drone strike reported in Riyadh. No group has claimed it."
+  },
+  {
+    "id": "CE-2026-0033",
+    "date": "2026-04-25",
+    "lat": 33.5042,
+    "lng": 35.6039,
+    "country": "LBN",
+    "admin1": "Nabatieh",
+    "location_name": "Nabatieh",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Lebanon)"
+    ],
+    "fatalities": null,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a residential building in Nabatieh."
+  },
+  {
+    "id": "CE-2026-0034",
+    "date": "2026-04-25",
+    "lat": 35.7133,
+    "lng": 51.4009,
+    "country": "IRN",
+    "admin1": "Tehran",
+    "location_name": "Tehran",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iran)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Tehran over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2026-0035",
+    "date": "2026-04-28",
+    "lat": 37.0275,
+    "lng": 41.2469,
+    "country": "SYR",
+    "admin1": "Al-Hasakah",
+    "location_name": "Qamishli",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a suspected weapons depot in Qamishli."
+  },
+  {
+    "id": "CE-2026-0036",
+    "date": "2026-04-28",
+    "lat": 31.3493,
+    "lng": 34.338,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Khan Younis",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 2,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Khan Younis."
+  },
+  {
+    "id": "CE-2026-0037",
+    "date": "2026-04-29",
+    "lat": 35.317,
+    "lng": 46.9753,
+    "country": "IRN",
+    "admin1": "Kurdistan",
+    "location_name": "Sanandaj",
+    "event_type": "riot",
+    "actors": [
+      "Rioters (Iran)",
+      "Police forces (Iran)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A protest over rising fuel prices in Sanandaj turned violent, with clashes with police."
+  },
+  {
+    "id": "CE-2026-0038",
+    "date": "2026-04-30",
+    "lat": 31.356,
+    "lng": 34.321,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Khan Younis",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "State forces (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 2,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Khan Younis. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2026-0039",
+    "date": "2026-05-04",
+    "lat": 33.3617,
+    "lng": 35.5975,
+    "country": "LBN",
+    "admin1": "Nabatieh",
+    "location_name": "Marjayoun",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a residential building in Marjayoun."
+  },
+  {
+    "id": "CE-2026-0040",
+    "date": "2026-05-06",
+    "lat": 32.649,
+    "lng": 36.0907,
+    "country": "SYR",
+    "admin1": "Daraa",
+    "location_name": "Daraa",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a suspected weapons depot in Daraa."
+  },
+  {
+    "id": "CE-2026-0041",
+    "date": "2026-05-13",
+    "lat": 35.9293,
+    "lng": 36.6225,
+    "country": "SYR",
+    "admin1": "Idlib",
+    "location_name": "Idlib",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": 0,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Idlib."
+  },
+  {
+    "id": "CE-2026-0042",
+    "date": "2026-05-13",
+    "lat": 16.9505,
+    "lng": 43.785,
+    "country": "YEM",
+    "admin1": "Saada",
+    "location_name": "Saada",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Saada."
+  },
+  {
+    "id": "CE-2026-0043",
+    "date": "2026-05-14",
+    "lat": 16.9014,
+    "lng": 42.5822,
+    "country": "SAU",
+    "admin1": "Jazan",
+    "location_name": "Jizan",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Saudi Arabia)",
+      "Civilians (Saudi Arabia)"
+    ],
+    "fatalities": 9,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A drone strike reported in Jizan. No group has claimed it."
+  },
+  {
+    "id": "CE-2026-0044",
+    "date": "2026-05-16",
+    "lat": 32.6529,
+    "lng": 38.3246,
+    "country": "JOR",
+    "admin1": "Mafraq",
+    "location_name": "Ruwaished",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Jordan)",
+      "Non-state armed group (Jordan)"
+    ],
+    "fatalities": 2,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Ruwaished."
+  },
+  {
+    "id": "CE-2026-0045",
+    "date": "2026-05-17",
+    "lat": 31.537,
+    "lng": 34.4833,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Jabalia",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 0,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a vehicle in Jabalia."
+  },
+  {
+    "id": "CE-2026-0046",
+    "date": "2026-05-17",
+    "lat": 32.0845,
+    "lng": 34.779,
+    "country": "ISR",
+    "admin1": "Tel Aviv",
+    "location_name": "Tel Aviv",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Israel)",
+      "Civilians (Israel)"
+    ],
+    "fatalities": 0,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A drone strike reported in Tel Aviv. No group has claimed it."
+  },
+  {
+    "id": "CE-2026-0047",
+    "date": "2026-05-21",
+    "lat": 34.7243,
+    "lng": 36.7189,
+    "country": "SYR",
+    "admin1": "Homs",
+    "location_name": "Homs",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Syria)",
+      "Non-state armed group (Syria)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Homs."
+  },
+  {
+    "id": "CE-2026-0048",
+    "date": "2026-05-23",
+    "lat": 40.0686,
+    "lng": 32.9487,
+    "country": "TUR",
+    "admin1": "Ankara",
+    "location_name": "Ankara",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Türkiye)"
+    ],
+    "fatalities": 0,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Ankara over the detention of activists."
+  },
+  {
+    "id": "CE-2026-0049",
+    "date": "2026-05-30",
+    "lat": 33.1919,
+    "lng": 35.539,
+    "country": "ISR",
+    "admin1": "Northern District",
+    "location_name": "Kiryat Shmona",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Israel)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Kiryat Shmona over rising fuel prices."
+  },
+  {
+    "id": "CE-2026-0050",
+    "date": "2026-05-31",
+    "lat": 33.5462,
+    "lng": 43.3325,
+    "country": "IRQ",
+    "admin1": "Anbar",
+    "location_name": "Ramadi",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)",
+      "Police forces (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Ramadi over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2026-0051",
+    "date": "2026-06-07",
+    "lat": 29.5185,
+    "lng": 60.8551,
+    "country": "IRN",
+    "admin1": "Sistan and Baluchestan",
+    "location_name": "Zahedan",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iran)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Zahedan over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2026-0052",
+    "date": "2026-06-18",
+    "lat": 13.6844,
+    "lng": 44.7192,
+    "country": "YEM",
+    "admin1": "Ad Dali",
+    "location_name": "Al Dhale",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Al Dhale."
+  },
+  {
+    "id": "CE-2026-0053",
+    "date": "2026-06-21",
+    "lat": 13.1764,
+    "lng": 44.9517,
+    "country": "YEM",
+    "admin1": "Lahij",
+    "location_name": "Lahij",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 19,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on an open area in Lahij."
+  },
+  {
+    "id": "CE-2026-0054",
+    "date": "2026-06-25",
+    "lat": 15.714,
+    "lng": 43.6281,
+    "country": "YEM",
+    "admin1": "Hajjah",
+    "location_name": "Hajjah",
+    "event_type": "shelling",
+    "actors": [
+      "Non-state armed group (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting an open area in Hajjah."
+  },
+  {
+    "id": "CE-2026-0055",
+    "date": "2026-06-26",
+    "lat": 32.3152,
+    "lng": 35.0361,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Tulkarm",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 11,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on an open area in Tulkarm."
+  },
+  {
+    "id": "CE-2026-0056",
+    "date": "2026-06-28",
+    "lat": 29.5741,
+    "lng": 52.579,
+    "country": "IRN",
+    "admin1": "Fars",
+    "location_name": "Shiraz",
+    "event_type": "riot",
+    "actors": [
+      "Rioters (Iran)",
+      "Police forces (Iran)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A protest over the detention of activists in Shiraz turned violent, with clashes with police."
+  },
+  {
+    "id": "CE-2026-0057",
+    "date": "2026-07-21",
+    "lat": 36.2247,
+    "lng": 41.8751,
+    "country": "IRQ",
+    "admin1": "Nineveh",
+    "location_name": "Sinjar",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iraq)",
+      "Police forces (Iraq)"
+    ],
+    "fatalities": 0,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Sinjar over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2026-0058",
+    "date": "2026-07-28",
+    "lat": 34.705,
+    "lng": 33.0361,
+    "country": "CYP",
+    "admin1": "Limassol",
+    "location_name": "Limassol",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Cyprus)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Limassol over the cost of living."
+  },
+  {
+    "id": "CE-2026-0059",
+    "date": "2026-07-31",
+    "lat": 32.5424,
+    "lng": 38.1917,
+    "country": "JOR",
+    "admin1": "Mafraq",
+    "location_name": "Ruwaished",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Jordan)",
+      "Non-state armed group (Jordan)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Ruwaished."
+  },
+  {
+    "id": "CE-2026-0060",
+    "date": "2026-08-03",
+    "lat": 39.9403,
+    "lng": 32.8637,
+    "country": "TUR",
+    "admin1": "Ankara",
+    "location_name": "Ankara",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Türkiye)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Ankara over the regional war."
+  },
+  {
+    "id": "CE-2026-0061",
+    "date": "2026-08-04",
+    "lat": 13.7321,
+    "lng": 44.587,
+    "country": "YEM",
+    "admin1": "Ad Dali",
+    "location_name": "Al Dhale",
+    "event_type": "explosion_remote",
+    "actors": [
+      "Unidentified armed group (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 5,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A roadside bomb reported in Al Dhale. No group has claimed it."
+  },
+  {
+    "id": "CE-2026-0062",
+    "date": "2026-08-09",
+    "lat": 32.5785,
+    "lng": 35.8767,
+    "country": "JOR",
+    "admin1": "Irbid",
+    "location_name": "Irbid",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Jordan)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Irbid over water shortages."
+  },
+  {
+    "id": "CE-2026-0063",
+    "date": "2026-08-25",
+    "lat": 36.3147,
+    "lng": 59.6086,
+    "country": "IRN",
+    "admin1": "Razavi Khorasan",
+    "location_name": "Mashhad",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iran)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Mashhad over the cost of living."
+  },
+  {
+    "id": "CE-2026-0064",
+    "date": "2026-09-01",
+    "lat": 29.5302,
+    "lng": 34.9169,
+    "country": "ISR",
+    "admin1": "Southern District",
+    "location_name": "Eilat",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Israel)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Eilat over the cost of living."
+  },
+  {
+    "id": "CE-2026-0065",
+    "date": "2026-09-07",
+    "lat": 32.5867,
+    "lng": 36.0775,
+    "country": "SYR",
+    "admin1": "Daraa",
+    "location_name": "Daraa",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Syria)",
+      "Civilians (Syria)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a vehicle in Daraa."
+  },
+  {
+    "id": "CE-2026-0066",
+    "date": "2026-09-09",
+    "lat": 15.3427,
+    "lng": 44.2173,
+    "country": "YEM",
+    "admin1": "Amanat al Asimah",
+    "location_name": "Sanaa",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Yemen)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a vehicle in Sanaa."
+  },
+  {
+    "id": "CE-2026-0067",
+    "date": "2026-09-09",
+    "lat": 34.5995,
+    "lng": 43.6774,
+    "country": "IRQ",
+    "admin1": "Salah al-Din",
+    "location_name": "Tikrit",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Iraq)"
+    ],
+    "fatalities": 24,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a vehicle in Tikrit."
+  },
+  {
+    "id": "CE-2026-0068",
+    "date": "2026-09-11",
+    "lat": 16.9406,
+    "lng": 43.7546,
+    "country": "YEM",
+    "admin1": "Saada",
+    "location_name": "Saada",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": 1,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Saada."
+  },
+  {
+    "id": "CE-2026-0069",
+    "date": "2026-09-13",
+    "lat": 31.2774,
+    "lng": 34.2376,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Rafah",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Palestine)",
+      "Non-state armed group (Palestine)"
+    ],
+    "fatalities": 4,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Rafah."
+  },
+  {
+    "id": "CE-2026-0070",
+    "date": "2026-09-26",
+    "lat": 31.8981,
+    "lng": 35.2043,
+    "country": "PSE",
+    "admin1": "West Bank",
+    "location_name": "Ramallah",
+    "event_type": "shelling",
+    "actors": [
+      "State forces (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 2,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Artillery or mortar fire reported hitting a checkpoint in Ramallah."
+  },
+  {
+    "id": "CE-2026-0071",
+    "date": "2026-09-27",
+    "lat": 33.9952,
+    "lng": 36.178,
+    "country": "LBN",
+    "admin1": "Baalbek-Hermel",
+    "location_name": "Baalbek",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Lebanon)",
+      "Civilians (Lebanon)"
+    ],
+    "fatalities": 6,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a suspected weapons depot in Baalbek."
+  },
+  {
+    "id": "CE-2026-0072",
+    "date": "2026-09-28",
+    "lat": 17.6148,
+    "lng": 44.2201,
+    "country": "SAU",
+    "admin1": "Najran",
+    "location_name": "Najran",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Saudi Arabia)",
+      "Police forces (Saudi Arabia)"
+    ],
+    "fatalities": 0,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Najran over unpaid public-sector wages."
+  },
+  {
+    "id": "CE-2026-0073",
+    "date": "2026-10-07",
+    "lat": 31.5163,
+    "lng": 34.4713,
+    "country": "PSE",
+    "admin1": "Gaza Strip",
+    "location_name": "Gaza City",
+    "event_type": "violence_against_civilians",
+    "actors": [
+      "State forces (Palestine)",
+      "Civilians (Palestine)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Attack on civilians reported in Gaza City. The perpetrator has not been identified."
+  },
+  {
+    "id": "CE-2026-0074",
+    "date": "2026-10-09",
+    "lat": 14.8024,
+    "lng": 42.9544,
+    "country": "YEM",
+    "admin1": "Al Hudaydah",
+    "location_name": "Hodeidah",
+    "event_type": "airstrike",
+    "actors": [
+      "Foreign air force (unattributed)",
+      "Civilians (Yemen)"
+    ],
+    "fatalities": null,
+    "location_precision": "exact",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on a checkpoint in Hodeidah."
+  },
+  {
+    "id": "CE-2026-0075",
+    "date": "2026-10-10",
+    "lat": 35.827,
+    "lng": 51.387,
+    "country": "IRN",
+    "admin1": "Tehran",
+    "location_name": "Tehran",
+    "event_type": "riot",
+    "actors": [
+      "Rioters (Iran)",
+      "Police forces (Iran)"
+    ],
+    "fatalities": null,
+    "location_precision": "region",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "A protest over unpaid public-sector wages in Tehran turned violent, with clashes with police."
+  },
+  {
+    "id": "CE-2026-0076",
+    "date": "2026-10-11",
+    "lat": 26.2131,
+    "lng": 50.6134,
+    "country": "BHR",
+    "admin1": "Capital",
+    "location_name": "Manama",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Bahrain)",
+      "Police forces (Bahrain)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Manama over electricity shortages."
+  },
+  {
+    "id": "CE-2026-0077",
+    "date": "2026-10-20",
+    "lat": 33.8624,
+    "lng": 35.5316,
+    "country": "LBN",
+    "admin1": "Beirut",
+    "location_name": "Beirut",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Lebanon)",
+      "Police forces (Lebanon)"
+    ],
+    "fatalities": 0,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Beirut over water shortages."
+  },
+  {
+    "id": "CE-2026-0078",
+    "date": "2026-10-20",
+    "lat": 33.9029,
+    "lng": 35.5165,
+    "country": "LBN",
+    "admin1": "Beirut",
+    "location_name": "Beirut",
+    "event_type": "airstrike",
+    "actors": [
+      "State forces (Lebanon)"
+    ],
+    "fatalities": null,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Airstrike reported on an open area in Beirut."
+  },
+  {
+    "id": "CE-2026-0079",
+    "date": "2026-10-21",
+    "lat": 35.2921,
+    "lng": 47.0343,
+    "country": "IRN",
+    "admin1": "Kurdistan",
+    "location_name": "Sanandaj",
+    "event_type": "protest",
+    "actors": [
+      "Protesters (Iran)"
+    ],
+    "fatalities": 1,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Demonstration in Sanandaj over electricity shortages."
+  },
+  {
+    "id": "CE-2026-0080",
+    "date": "2026-10-24",
+    "lat": 15.4623,
+    "lng": 45.3302,
+    "country": "YEM",
+    "admin1": "Marib",
+    "location_name": "Marib",
+    "event_type": "battle",
+    "actors": [
+      "State forces (Yemen)",
+      "Non-state armed group (Yemen)"
+    ],
+    "fatalities": 18,
+    "location_precision": "town",
+    "source": {
+      "name": "Synthetic sample, modeled on ACLED event categories",
+      "synthetic": true
+    },
+    "summary": "Armed clashes reported between state forces and a non-state armed group near Marib."
+  }
+]

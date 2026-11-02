@@ -1,0 +1,1067 @@
+[
+  {
+    "id": "CI-2025-0001",
+    "date": "2025-01-04",
+    "target_country": "ARE",
+    "sector": "health",
+    "attack_type": "espionage",
+    "attributed_group": "oilrig",
+    "confidence": "medium",
+    "attribution_basis": "Malware and infrastructure overlap with earlier activity that vendors attributed to this group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a public health agency in the United Arab Emirates came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0002",
+    "date": "2025-01-11",
+    "target_country": "JOR",
+    "sector": "telecom",
+    "attack_type": "espionage",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a mobile network operator in Jordan came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0003",
+    "date": "2025-01-28",
+    "target_country": "ISR",
+    "sector": "government",
+    "attack_type": "espionage",
+    "attributed_group": "oilrig",
+    "confidence": "low",
+    "attribution_basis": "A single vendor made the assessment, with little public evidence.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a national ministry in Israel came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0004",
+    "date": "2025-01-29",
+    "target_country": "IRN",
+    "sector": "finance",
+    "attack_type": "ransomware",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a payments processor in Iran were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2025-0005",
+    "date": "2025-02-13",
+    "target_country": "ISR",
+    "sector": "defense",
+    "attack_type": "espionage",
+    "attributed_group": "volatile-cedar",
+    "confidence": "low",
+    "attribution_basis": "A single vendor made the assessment, with little public evidence.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a defense contractor in Israel came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0006",
+    "date": "2025-02-25",
+    "target_country": "ARE",
+    "sector": "government",
+    "attack_type": "phishing",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Staff at a customs authority in the United Arab Emirates received targeted phishing emails imitating a trusted partner. Several accounts were compromised."
+  },
+  {
+    "id": "CI-2025-0007",
+    "date": "2025-03-09",
+    "target_country": "IRN",
+    "sector": "finance",
+    "attack_type": "defacement",
+    "attributed_group": "predatory-sparrow",
+    "confidence": "low",
+    "attribution_basis": "An online persona claimed it. The claim has not been independently verified.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A retail bank in Iran's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2025-0008",
+    "date": "2025-03-10",
+    "target_country": "ISR",
+    "sector": "defense",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A military supplier in Israel's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0009",
+    "date": "2025-03-11",
+    "target_country": "LBN",
+    "sector": "finance",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A payments processor in Lebanon's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0010",
+    "date": "2025-03-14",
+    "target_country": "SAU",
+    "sector": "health",
+    "attack_type": "espionage",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a hospital group in Saudi Arabia came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0011",
+    "date": "2025-03-19",
+    "target_country": "ISR",
+    "sector": "telecom",
+    "attack_type": "supply_chain",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Attackers reached a mobile network operator in Israel through a compromised IT service provider."
+  },
+  {
+    "id": "CI-2025-0012",
+    "date": "2025-03-27",
+    "target_country": "ARE",
+    "sector": "energy",
+    "attack_type": "defacement",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A state-owned oil company in the United Arab Emirates's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2025-0013",
+    "date": "2025-04-01",
+    "target_country": "TUR",
+    "sector": "finance",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A retail bank in Türkiye's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0014",
+    "date": "2025-04-06",
+    "target_country": "ISR",
+    "sector": "energy",
+    "attack_type": "espionage",
+    "attributed_group": "apt33",
+    "confidence": "medium",
+    "attribution_basis": "Malware and infrastructure overlap with earlier activity that vendors attributed to this group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a power distribution operator in Israel came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0015",
+    "date": "2025-04-18",
+    "target_country": "EGY",
+    "sector": "transport",
+    "attack_type": "wiper",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Destructive malware erased data on systems at a logistics company in Egypt. A ransom-style note appeared, but no way to recover the data was offered."
+  },
+  {
+    "id": "CI-2025-0016",
+    "date": "2025-04-19",
+    "target_country": "JOR",
+    "sector": "government",
+    "attack_type": "supply_chain",
+    "attributed_group": "muddywater",
+    "confidence": "low",
+    "attribution_basis": "Techniques resemble past activity by this group, but no technical overlap was shown.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Attackers reached a customs authority in Jordan through a compromised IT service provider."
+  },
+  {
+    "id": "CI-2025-0017",
+    "date": "2025-04-22",
+    "target_country": "OMN",
+    "sector": "telecom",
+    "attack_type": "phishing",
+    "attributed_group": "muddywater",
+    "confidence": "low",
+    "attribution_basis": "Techniques resemble past activity by this group, but no technical overlap was shown.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Staff at an internet service provider in Oman received targeted phishing emails imitating a trusted partner. Several accounts were compromised."
+  },
+  {
+    "id": "CI-2025-0018",
+    "date": "2025-04-23",
+    "target_country": "ISR",
+    "sector": "finance",
+    "attack_type": "ransomware",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at an insurance group in Israel were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2025-0019",
+    "date": "2025-05-01",
+    "target_country": "ISR",
+    "sector": "telecom",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "An internet service provider in Israel's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0020",
+    "date": "2025-05-04",
+    "target_country": "ISR",
+    "sector": "finance",
+    "attack_type": "espionage",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a retail bank in Israel came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0021",
+    "date": "2025-05-08",
+    "target_country": "JOR",
+    "sector": "media",
+    "attack_type": "phishing",
+    "attributed_group": "molerats",
+    "confidence": "low",
+    "attribution_basis": "An online persona claimed it. The claim has not been independently verified.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Staff at a national broadcaster in Jordan received targeted phishing emails imitating a trusted partner. Several accounts were compromised."
+  },
+  {
+    "id": "CI-2025-0022",
+    "date": "2025-05-08",
+    "target_country": "TUR",
+    "sector": "telecom",
+    "attack_type": "defacement",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A mobile network operator in Türkiye's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2025-0023",
+    "date": "2025-05-25",
+    "target_country": "BHR",
+    "sector": "defense",
+    "attack_type": "ransomware",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a defense contractor in Bahrain were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2025-0024",
+    "date": "2025-06-02",
+    "target_country": "ISR",
+    "sector": "defense",
+    "attack_type": "ransomware",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a military supplier in Israel were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2025-0025",
+    "date": "2025-06-03",
+    "target_country": "PSE",
+    "sector": "education",
+    "attack_type": "espionage",
+    "attributed_group": "molerats",
+    "confidence": "medium",
+    "attribution_basis": "Two independent vendor reports point to the same group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a research institute in Palestine came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0026",
+    "date": "2025-06-09",
+    "target_country": "ISR",
+    "sector": "defense",
+    "attack_type": "phishing",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Staff at a military supplier in Israel received targeted phishing emails imitating a trusted partner. Several accounts were compromised."
+  },
+  {
+    "id": "CI-2025-0027",
+    "date": "2025-06-14",
+    "target_country": "SAU",
+    "sector": "health",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A public health agency in Saudi Arabia's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0028",
+    "date": "2025-06-23",
+    "target_country": "ISR",
+    "sector": "energy",
+    "attack_type": "ics_disruption",
+    "attributed_group": "cyberav3ngers",
+    "confidence": "low",
+    "attribution_basis": "An online persona claimed it. The claim has not been independently verified.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Operators at a gas pipeline operator in Israel reported tampering with internet-exposed control devices and switched to manual operation."
+  },
+  {
+    "id": "CI-2025-0029",
+    "date": "2025-06-30",
+    "target_country": "SAU",
+    "sector": "government",
+    "attack_type": "phishing",
+    "attributed_group": "apt33",
+    "confidence": "medium",
+    "attribution_basis": "Two independent vendor reports point to the same group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Staff at a municipal government in Saudi Arabia received targeted phishing emails imitating a trusted partner. Several accounts were compromised."
+  },
+  {
+    "id": "CI-2025-0030",
+    "date": "2025-07-11",
+    "target_country": "TUR",
+    "sector": "government",
+    "attack_type": "espionage",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a national ministry in Türkiye came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0031",
+    "date": "2025-07-23",
+    "target_country": "IRN",
+    "sector": "defense",
+    "attack_type": "espionage",
+    "attributed_group": "magic-hound",
+    "confidence": "low",
+    "attribution_basis": "A single vendor made the assessment, with little public evidence.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a military supplier in Iran came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0032",
+    "date": "2025-07-24",
+    "target_country": "ARE",
+    "sector": "government",
+    "attack_type": "defacement",
+    "attributed_group": "moses-staff",
+    "confidence": "low",
+    "attribution_basis": "An online persona claimed it. The claim has not been independently verified.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A municipal government in the United Arab Emirates's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2025-0033",
+    "date": "2025-08-18",
+    "target_country": "EGY",
+    "sector": "government",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A municipal government in Egypt's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0034",
+    "date": "2025-08-23",
+    "target_country": "LBN",
+    "sector": "telecom",
+    "attack_type": "defacement",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A mobile network operator in Lebanon's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2025-0035",
+    "date": "2025-09-08",
+    "target_country": "IRN",
+    "sector": "media",
+    "attack_type": "wiper",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Destructive malware erased data on systems at a national broadcaster in Iran. A ransom-style note appeared, but no way to recover the data was offered."
+  },
+  {
+    "id": "CI-2025-0036",
+    "date": "2025-09-08",
+    "target_country": "IRQ",
+    "sector": "energy",
+    "attack_type": "ransomware",
+    "attributed_group": "magic-hound",
+    "confidence": "low",
+    "attribution_basis": "Techniques resemble past activity by this group, but no technical overlap was shown.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a gas pipeline operator in Iraq were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2025-0037",
+    "date": "2025-09-11",
+    "target_country": "IRQ",
+    "sector": "energy",
+    "attack_type": "espionage",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a state-owned oil company in Iraq came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2025-0038",
+    "date": "2025-09-15",
+    "target_country": "IRQ",
+    "sector": "health",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A public health agency in Iraq's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0039",
+    "date": "2025-09-18",
+    "target_country": "ISR",
+    "sector": "government",
+    "attack_type": "defacement",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A customs authority in Israel's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2025-0040",
+    "date": "2025-09-23",
+    "target_country": "SAU",
+    "sector": "government",
+    "attack_type": "phishing",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Staff at a customs authority in Saudi Arabia received targeted phishing emails imitating a trusted partner. Several accounts were compromised."
+  },
+  {
+    "id": "CI-2025-0041",
+    "date": "2025-09-29",
+    "target_country": "EGY",
+    "sector": "defense",
+    "attack_type": "ransomware",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a military supplier in Egypt were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2025-0042",
+    "date": "2025-10-25",
+    "target_country": "BHR",
+    "sector": "energy",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A power distribution operator in Bahrain's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0043",
+    "date": "2025-11-12",
+    "target_country": "ARE",
+    "sector": "government",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A national ministry in the United Arab Emirates's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2025-0044",
+    "date": "2025-11-23",
+    "target_country": "SAU",
+    "sector": "health",
+    "attack_type": "wiper",
+    "attributed_group": "apt33",
+    "confidence": "low",
+    "attribution_basis": "Techniques resemble past activity by this group, but no technical overlap was shown.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Destructive malware erased data on systems at a hospital group in Saudi Arabia. A ransom-style note appeared, but no way to recover the data was offered."
+  },
+  {
+    "id": "CI-2026-0001",
+    "date": "2026-01-01",
+    "target_country": "SAU",
+    "sector": "government",
+    "attack_type": "espionage",
+    "attributed_group": "apt33",
+    "confidence": "medium",
+    "attribution_basis": "Two independent vendor reports point to the same group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a national ministry in Saudi Arabia came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2026-0002",
+    "date": "2026-01-21",
+    "target_country": "SAU",
+    "sector": "defense",
+    "attack_type": "espionage",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a military supplier in Saudi Arabia came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2026-0003",
+    "date": "2026-02-13",
+    "target_country": "SAU",
+    "sector": "finance",
+    "attack_type": "ransomware",
+    "attributed_group": "magic-hound",
+    "confidence": "medium",
+    "attribution_basis": "Two independent vendor reports point to the same group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a retail bank in Saudi Arabia were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2026-0004",
+    "date": "2026-03-12",
+    "target_country": "KWT",
+    "sector": "government",
+    "attack_type": "defacement",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A national ministry in Kuwait's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2026-0005",
+    "date": "2026-04-15",
+    "target_country": "ISR",
+    "sector": "energy",
+    "attack_type": "espionage",
+    "attributed_group": "molerats",
+    "confidence": "low",
+    "attribution_basis": "A single vendor made the assessment, with little public evidence.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a power distribution operator in Israel came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2026-0006",
+    "date": "2026-04-27",
+    "target_country": "ARE",
+    "sector": "government",
+    "attack_type": "espionage",
+    "attributed_group": "oilrig",
+    "confidence": "medium",
+    "attribution_basis": "Malware and infrastructure overlap with earlier activity that vendors attributed to this group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a national ministry in the United Arab Emirates came to light after investigators found stolen credentials and staged data."
+  },
+  {
+    "id": "CI-2026-0007",
+    "date": "2026-05-01",
+    "target_country": "IRN",
+    "sector": "defense",
+    "attack_type": "ransomware",
+    "attributed_group": "magic-hound",
+    "confidence": "low",
+    "attribution_basis": "A single vendor made the assessment, with little public evidence.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a defense contractor in Iran were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2026-0008",
+    "date": "2026-05-15",
+    "target_country": "KWT",
+    "sector": "energy",
+    "attack_type": "phishing",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Staff at a state-owned oil company in Kuwait received targeted phishing emails imitating a trusted partner. Several accounts were compromised."
+  },
+  {
+    "id": "CI-2026-0009",
+    "date": "2026-05-26",
+    "target_country": "JOR",
+    "sector": "health",
+    "attack_type": "ransomware",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a public health agency in Jordan were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2026-0010",
+    "date": "2026-06-04",
+    "target_country": "CYP",
+    "sector": "transport",
+    "attack_type": "ics_disruption",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Operators at a logistics company in Cyprus reported tampering with internet-exposed control devices and switched to manual operation."
+  },
+  {
+    "id": "CI-2026-0011",
+    "date": "2026-06-14",
+    "target_country": "ISR",
+    "sector": "government",
+    "attack_type": "defacement",
+    "attributed_group": "cyberav3ngers",
+    "confidence": "low",
+    "attribution_basis": "Techniques resemble past activity by this group, but no technical overlap was shown.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A customs authority in Israel's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2026-0012",
+    "date": "2026-06-28",
+    "target_country": "ARE",
+    "sector": "government",
+    "attack_type": "ransomware",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a national ministry in the United Arab Emirates were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2026-0013",
+    "date": "2026-07-01",
+    "target_country": "ARE",
+    "sector": "government",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A municipal government in the United Arab Emirates's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2026-0014",
+    "date": "2026-07-11",
+    "target_country": "IRN",
+    "sector": "government",
+    "attack_type": "ddos",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "A hacktivist channel claimed it. No link to a known group was established.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A municipal government in Iran's public websites were unavailable for several hours during a traffic flood claimed by a hacktivist channel."
+  },
+  {
+    "id": "CI-2026-0015",
+    "date": "2026-07-17",
+    "target_country": "QAT",
+    "sector": "transport",
+    "attack_type": "wiper",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Destructive malware erased data on systems at a national airline in Qatar. A ransom-style note appeared, but no way to recover the data was offered."
+  },
+  {
+    "id": "CI-2026-0016",
+    "date": "2026-07-26",
+    "target_country": "SAU",
+    "sector": "finance",
+    "attack_type": "defacement",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A retail bank in Saudi Arabia's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2026-0017",
+    "date": "2026-07-29",
+    "target_country": "IRN",
+    "sector": "education",
+    "attack_type": "supply_chain",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Attackers reached a research institute in Iran through a compromised IT service provider."
+  },
+  {
+    "id": "CI-2026-0018",
+    "date": "2026-07-29",
+    "target_country": "QAT",
+    "sector": "finance",
+    "attack_type": "phishing",
+    "attributed_group": "oilrig",
+    "confidence": "low",
+    "attribution_basis": "An online persona claimed it. The claim has not been independently verified.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Staff at a retail bank in Qatar received targeted phishing emails imitating a trusted partner. Several accounts were compromised."
+  },
+  {
+    "id": "CI-2026-0019",
+    "date": "2026-08-04",
+    "target_country": "TUR",
+    "sector": "government",
+    "attack_type": "ransomware",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a national ministry in Türkiye were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2026-0020",
+    "date": "2026-08-05",
+    "target_country": "ARE",
+    "sector": "transport",
+    "attack_type": "ransomware",
+    "attributed_group": "agrius",
+    "confidence": "medium",
+    "attribution_basis": "Two independent vendor reports point to the same group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Files at a port operator in the United Arab Emirates were encrypted and a ransom note was left on affected servers. Some services were offline for several days."
+  },
+  {
+    "id": "CI-2026-0021",
+    "date": "2026-08-15",
+    "target_country": "KWT",
+    "sector": "telecom",
+    "attack_type": "wiper",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Destructive malware erased data on systems at a mobile network operator in Kuwait. A ransom-style note appeared, but no way to recover the data was offered."
+  },
+  {
+    "id": "CI-2026-0022",
+    "date": "2026-08-16",
+    "target_country": "ISR",
+    "sector": "media",
+    "attack_type": "supply_chain",
+    "attributed_group": "oilrig",
+    "confidence": "medium",
+    "attribution_basis": "Two independent vendor reports point to the same group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Attackers reached a news website in Israel through a compromised IT service provider."
+  },
+  {
+    "id": "CI-2026-0023",
+    "date": "2026-10-05",
+    "target_country": "ISR",
+    "sector": "finance",
+    "attack_type": "supply_chain",
+    "attributed_group": "muddywater",
+    "confidence": "medium",
+    "attribution_basis": "Two independent vendor reports point to the same group.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Attackers reached a retail bank in Israel through a compromised IT service provider."
+  },
+  {
+    "id": "CI-2026-0024",
+    "date": "2026-10-07",
+    "target_country": "SAU",
+    "sector": "health",
+    "attack_type": "wiper",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "Destructive malware erased data on systems at a hospital group in Saudi Arabia. A ransom-style note appeared, but no way to recover the data was offered."
+  },
+  {
+    "id": "CI-2026-0025",
+    "date": "2026-10-21",
+    "target_country": "BHR",
+    "sector": "media",
+    "attack_type": "defacement",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A national broadcaster in Bahrain's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2026-0026",
+    "date": "2026-10-30",
+    "target_country": "QAT",
+    "sector": "government",
+    "attack_type": "defacement",
+    "attributed_group": null,
+    "confidence": "low",
+    "attribution_basis": "No public attribution.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A customs authority in Qatar's website was defaced with political messaging."
+  },
+  {
+    "id": "CI-2026-0027",
+    "date": "2026-10-30",
+    "target_country": "OMN",
+    "sector": "government",
+    "attack_type": "espionage",
+    "attributed_group": "muddywater",
+    "confidence": "low",
+    "attribution_basis": "Techniques resemble past activity by this group, but no technical overlap was shown.",
+    "source": {
+      "name": "Synthetic sample, modeled on public incident reporting",
+      "synthetic": true
+    },
+    "summary": "A long-running intrusion at a municipal government in Oman came to light after investigators found stolen credentials and staged data."
+  }
+]

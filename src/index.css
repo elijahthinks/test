@@ -1,0 +1,165 @@
+@import "tailwindcss";
+
+/*
+ * Tokens. Conflict is physical, so it is warm; cyber is digital, so it is a
+ * single cool hue. Both palettes were checked with a color-vision-deficiency
+ * validator against the land color (see README, "Design").
+ */
+@theme {
+  --color-ink: #161b2e; /* sea, app background */
+  --color-panel: #1c2238; /* rails and panels */
+  --color-land: #252c45;
+  --color-rule: #3a4366;
+  --color-paper: #e6e3d8; /* primary text */
+  --color-muted: #9aa0b8; /* secondary text, 6:1 on panel */
+  --color-focus: #f4d58d;
+
+  --color-battle: #b44424;
+  --color-remote: #b48900;
+  --color-civilians: #b847a6;
+  --color-demonstration: #7f7bfa;
+
+  --color-cyber-1: #1f7074;
+  --color-cyber-2: #258c8e;
+  --color-cyber-3: #2ba9a7;
+  --color-cyber-4: #46c4bc;
+  --color-cyber-5: #6eded0;
+
+  --font-sans: "Atkinson Hyperlegible Next", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Newsreader", ui-serif, Georgia, serif;
+
+  /* Type scale (ratio ~1.2): 12.5 / 14 / 15 / 18 / 22 */
+  --text-xs: 0.78rem;
+  --text-xs--line-height: 1.35;
+  --text-sm: 0.875rem;
+  --text-sm--line-height: 1.45;
+  --text-base: 0.9375rem;
+  --text-base--line-height: 1.5;
+  --text-lg: 1.125rem;
+  --text-lg--line-height: 1.35;
+  --text-xl: 1.375rem;
+  --text-xl--line-height: 1.2;
+}
+
+@layer base {
+  html,
+  body,
+  #root {
+    height: 100%;
+  }
+  body {
+    background: var(--color-ink);
+    color: var(--color-paper);
+    font-family: var(--font-sans);
+    font-size: var(--text-base);
+    -webkit-font-smoothing: antialiased;
+    font-variant-numeric: tabular-nums;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+  button {
+    cursor: pointer;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+/* MapLibre chrome, restyled to the palette. */
+.maplibregl-ctrl-group {
+  background: var(--color-panel) !important;
+  border: 1px solid var(--color-rule);
+  box-shadow: none !important;
+}
+.maplibregl-ctrl-group button + button {
+  border-top-color: var(--color-rule) !important;
+}
+.maplibregl-ctrl-group button .maplibregl-ctrl-icon {
+  filter: invert(0.9);
+}
+.maplibregl-ctrl-attrib {
+  background: rgb(22 27 46 / 0.85) !important;
+  color: var(--color-muted);
+  font-size: 11px;
+}
+.maplibregl-ctrl-attrib a {
+  color: var(--color-muted) !important;
+}
+.maplibregl-ctrl-attrib-button {
+  filter: invert(0.85);
+}
+
+/* Event markers are real buttons so they can be reached by keyboard. */
+.event-marker {
+  display: block;
+  border: 0;
+  padding: 0;
+  background: none;
+  border-radius: 9999px;
+}
+.event-marker:focus-visible {
+  outline-offset: 1px;
+}
+
+/* Dual-thumb range: two native inputs stacked, only the thumbs take input. */
+.range-dual {
+  position: relative;
+  height: 28px;
+}
+.range-dual input[type="range"] {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  margin: 0;
+  background: none;
+  pointer-events: none;
+  appearance: none;
+  -webkit-appearance: none;
+}
+.range-dual input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  pointer-events: auto;
+  width: 18px;
+  height: 18px;
+  border-radius: 9999px;
+  background: var(--color-paper);
+  border: 3px solid var(--color-ink);
+  box-shadow: 0 0 0 1px var(--color-rule);
+}
+.range-dual input[type="range"]::-moz-range-thumb {
+  pointer-events: auto;
+  width: 14px;
+  height: 14px;
+  border-radius: 9999px;
+  background: var(--color-paper);
+  border: 3px solid var(--color-ink);
+  box-shadow: 0 0 0 1px var(--color-rule);
+}
+.range-dual input[type="range"]:focus-visible {
+  outline: none;
+}
+.range-dual input[type="range"]:focus-visible::-webkit-slider-thumb {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}
+.range-dual input[type="range"]:focus-visible::-moz-range-thumb {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+/* The hatch that marks weak attribution, reused in legends and lists. */
+.hatch {
+  background-image: repeating-linear-gradient(
+    135deg,
+    rgb(22 27 46 / 0.6) 0 1.6px,
+    transparent 1.6px 6.4px
+  );
+}

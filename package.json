@@ -1,0 +1,37 @@
+{
+  "name": "mideast-conflict-cyber-map",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Interactive demo map of Middle East armed conflict events and cyber threat activity, using sample data.",
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c cyan,magenta \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:api": "tsx watch server/dev.ts",
+    "dev:web": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b",
+    "data:generate": "tsx scripts/generate-mock-data.ts",
+    "data:validate": "tsx scripts/validate-data.ts"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "maplibre-gl": "^6.16.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/express": "^5.0.6",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "concurrently": "^10.0.6",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
+    "typescript": "~5.9",
+    "vite": "^8.3.5"
+  }
+}
