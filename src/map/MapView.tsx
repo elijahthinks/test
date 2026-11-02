@@ -4,8 +4,8 @@ import type { FeatureCollection, Point } from "geojson";
 // MapLibre 6 finds its worker relative to its own module URL, which breaks once
 // a bundler moves files around. Importing it as an asset gives a stable URL.
 import workerUrl from "maplibre-gl/dist/maplibre-gl-worker.mjs?url";
-import type { ConflictEvent, CountryCode, CyberIncident } from "../../shared/schema";
-import { COUNTRIES } from "../../shared/schema";
+import type { ConflictEvent, CyberIncident } from "../../shared/schema";
+import { COUNTRIES, type CountryCode } from "../../shared/constants";
 import type { Countries } from "../lib/api";
 import { EVENT_TYPE_INFO, FAMILY_ORDER, type Family } from "../lib/taxonomy";
 import type { Selection } from "../state/appState";

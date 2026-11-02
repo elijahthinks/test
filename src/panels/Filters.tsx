@@ -1,4 +1,4 @@
-import { ATTACK_TYPES, COUNTRIES, COUNTRY_CODES, EVENT_TYPES, type CountryCode } from "../../shared/schema";
+import { ATTACK_TYPES, COUNTRIES, COUNTRY_CODES, EVENT_TYPES, type CountryCode } from "../../shared/constants";
 import type { AppState } from "../state/appState";
 import { ATTACK_TYPE_LABEL, CYBER_RAMP, EVENT_TYPE_INFO, FAMILIES, FAMILY_ORDER } from "../lib/taxonomy";
 import { formatMonth } from "../lib/format";

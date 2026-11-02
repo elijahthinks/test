@@ -3,38 +3,25 @@
  *
  * The zod schemas are the single source of truth: TypeScript types are
  * inferred from them, and `npm run data:validate` checks every JSON record
- * in /data against them. The client only imports types from this file, so
- * zod never ends up in the browser bundle.
+ * in /data against them. Browser code imports values from ./constants and
+ * only types from here, so zod never ends up in the bundle.
  */
 import { z } from "zod";
+import {
+  ATTACK_TYPES,
+  CONFIDENCE,
+  COUNTRY_CODES,
+  EVENT_TYPES,
+  SECTORS,
+  type CountryCode,
+} from "./constants";
 
-export const COUNTRIES = {
-  BHR: "Bahrain",
-  CYP: "Cyprus",
-  EGY: "Egypt",
-  IRN: "Iran",
-  IRQ: "Iraq",
-  ISR: "Israel",
-  JOR: "Jordan",
-  KWT: "Kuwait",
-  LBN: "Lebanon",
-  OMN: "Oman",
-  PSE: "Palestine",
-  QAT: "Qatar",
-  SAU: "Saudi Arabia",
-  SYR: "Syria",
-  TUR: "Türkiye",
-  ARE: "United Arab Emirates",
-  YEM: "Yemen",
-} as const;
+export * from "./constants";
 
-export type CountryCode = keyof typeof COUNTRIES;
-export const COUNTRY_CODES = Object.keys(COUNTRIES) as CountryCode[];
 const countryCode = z.enum(COUNTRY_CODES as [CountryCode, ...CountryCode[]]);
 
 const isoDate = z.string().regex(/^\d{4}-\d{2}-\d{2}$/, "expected YYYY-MM-DD");
 
-export const CONFIDENCE = ["low", "medium", "high"] as const;
 export const confidenceSchema = z.enum(CONFIDENCE);
 export type Confidence = z.infer<typeof confidenceSchema>;
 
@@ -52,15 +39,6 @@ export type SourceRef = z.infer<typeof sourceRefSchema>;
 /* Conflict events (modeled on ACLED's event categories)               */
 /* ------------------------------------------------------------------ */
 
-export const EVENT_TYPES = [
-  "battle",
-  "airstrike",
-  "shelling",
-  "explosion_remote",
-  "violence_against_civilians",
-  "protest",
-  "riot",
-] as const;
 export const eventTypeSchema = z.enum(EVENT_TYPES);
 export type EventType = z.infer<typeof eventTypeSchema>;
 
@@ -87,31 +65,9 @@ export type ConflictEvent = z.infer<typeof conflictEventSchema>;
 /* Cyber incidents: tied to the TARGET country, never a guessed origin */
 /* ------------------------------------------------------------------ */
 
-export const SECTORS = [
-  "energy",
-  "government",
-  "finance",
-  "telecom",
-  "water",
-  "transport",
-  "health",
-  "defense",
-  "media",
-  "education",
-] as const;
 export const sectorSchema = z.enum(SECTORS);
 export type Sector = z.infer<typeof sectorSchema>;
 
-export const ATTACK_TYPES = [
-  "ransomware",
-  "wiper",
-  "ddos",
-  "espionage",
-  "defacement",
-  "supply_chain",
-  "phishing",
-  "ics_disruption",
-] as const;
 export const attackTypeSchema = z.enum(ATTACK_TYPES);
 export type AttackType = z.infer<typeof attackTypeSchema>;
 

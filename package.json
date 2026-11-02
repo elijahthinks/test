@@ -3,6 +3,9 @@
   "private": true,
   "version": "0.1.0",
   "description": "Interactive demo map of Middle East armed conflict events and cyber threat activity, using sample data.",
+  "engines": {
+    "node": ">=20.19"
+  },
   "scripts": {
     "dev": "concurrently -k -n api,web -c cyan,magenta \"npm:dev:api\" \"npm:dev:web\"",
     "dev:api": "tsx watch server/dev.ts",

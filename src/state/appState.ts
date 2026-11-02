@@ -1,11 +1,6 @@
 import { useMemo, useReducer } from "react";
-import {
-  ATTACK_TYPES,
-  EVENT_TYPES,
-  type AttackType,
-  type CountryCode,
-  type EventType,
-} from "../../shared/schema";
+import { ATTACK_TYPES, EVENT_TYPES, type CountryCode } from "../../shared/constants";
+import type { AttackType, EventType } from "../../shared/schema";
 import { matchesConflict, matchesCyber, type ConflictQuery, type CyberQuery } from "../../shared/filters";
 import type { Dataset } from "../lib/api";
 

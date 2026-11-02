@@ -174,7 +174,7 @@
         "name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage"
       }
     ],
-    "description": "MuddyWater is a cyber espionage group assessed to be a subordinate element within Iran's Ministry of Intelligence and Security (MOIS). Since at least 2017, MuddyWater has targeted a range of government and private organizations across sectors, including telecommunications, local government, finance, defense, and oil and natural gas organizations, in the Middle East (specifically the UAE and Saudi Arabia), Asia, Afr",
+    "description": "MuddyWater is a cyber espionage group assessed to be a subordinate element within Iran's Ministry of Intelligence and Security (MOIS). Since at least 2017, MuddyWater has targeted a range of government and private organizations across sectors, including telecommunications, local government, finance, defense, and oil and natural gas organizations, in the Middle East (specifically the UAE and Saudi Arabia), Asia, Africa, Europe, and North America.",
     "source": {
       "name": "MITRE ATT&CK v20",
       "url": "https://attack.mitre.org/groups/G0069",

@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
-import { COUNTRIES, type ConflictEvent, type CountryCode, type CyberIncident, type ThreatGroup } from "../../shared/schema";
+import { COUNTRIES, type CountryCode } from "../../shared/constants";
+import type { ConflictEvent, CyberIncident, ThreatGroup } from "../../shared/schema";
 import type { Dataset } from "../lib/api";
 import type { AppState } from "../state/appState";
 import {
